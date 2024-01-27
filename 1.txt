@@ -7,3 +7,7 @@ http://lede.medahl.com:10098/rtp/239.76.253.158:9000
 http://39.134.65.106/PLTV/88888888/224/3221226093/index.m3u8
 #EXTINF:-1,4-海南卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
+#EXTINF:-1,5-CCTV17
+https://epg.pw/stream/17a4a4ae88eefd18832c1644405d935ca77155ad2a670f3cbf7bf450a2632df1.m3u8
+#EXTINF:-1,6-黑龙江卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000025203/1.m3u8?channel-id=bestzb&Contentid=5000000004000025203&livemode=1&stbId=3
