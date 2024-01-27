@@ -1,7 +1,9 @@
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
-#EXTINF:-1 group-title="央视",CCTV4
+#EXTINF:-1,1-CCTV4
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 group-title="卫视",北京卫视
-http://lede.medahl.com:10098/rtp/239.76.253.184:9000
-#EXTINF:-1 group-title="其它",新闻综合
-http://39.134.66.110/PLTV/88888888/224/3221226093/index.m3u8
+#EXTINF:-1,2-CCTV8
+http://lede.medahl.com:10098/rtp/239.76.253.158:9000
+#EXTINF:-1,3-新闻综合
+http://39.134.65.106/PLTV/88888888/224/3221226093/index.m3u8
+#EXTINF:-1,4-海南卫视
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
