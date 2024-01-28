@@ -87,38 +87,27 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="卫视频道",纪实科教
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-#EXTINF:-1 tvg-id="精品" tvg-name="纪实人文"
-group-title="卫视频道",纪实人文
+#EXTINF:-1 group-title="卫视频道",纪实人文
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 tvg-id="卫视频道" tvg-name="黑龙江文体"
-group-title="卫视频道",黑龙江文体
+#EXTINF:-1 group-title="卫视频道",黑龙江文体
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-#EXTINF:-1 tvg-id="卫视频道" tvg-name="农业科教"
-group-title="卫视频道",农业科教
+#EXTINF:-1 group-title="卫视频道",农业科教
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
-#EXTINF:-1 tvg-id="卫视频道" tvg-name="黑龙江影视"
-group-title="卫视频道",黑龙江影视
+#EXTINF:-1 group-title="卫视频道",黑龙江影视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-#EXTINF:-1 tvg-id="卫视频道" tvg-name="黑龙江都市"
-group-title="卫视频道",黑龙江都市
+#EXTINF:-1 group-title="卫视频道",黑龙江都市
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-#EXTINF:-1 tvg-id="卫视频道" tvg-name="黑龙江少儿"
-group-title="卫视频道",黑龙江少儿
+#EXTINF:-1 group-title="卫视频道",黑龙江少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-#EXTINF:-1 tvg-id="卫视频道" tvg-name="黑龙江新闻法制"
-group-title="卫视频道",黑龙江新闻法制
+#EXTINF:-1 group-title="卫视频道",黑龙江新闻法制
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
-#EXTINF:-1 tvg-id="卫视频道" tvg-name="哈尔滨新闻综合"
-group-title="卫视频道",哈尔滨新闻综合
+#EXTINF:-1 group-title="卫视频道",哈尔滨新闻综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
-#EXTINF:-1 tvg-id="卫视频道" tvg-name="新闻综合1"
-group-title="卫视频道",新闻综合1
+#EXTINF:-1 group-title="卫视频道",新闻综合1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
-#EXTINF:-1 tvg-id="卫视频道" tvg-name="新闻综合2"
-group-title="卫视频道",新闻综合2
+#EXTINF:-1 group-title="卫视频道",新闻综合2
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
-#EXTINF:-1 tvg-id="卫视频道" tvg-name="新闻综合3"
-group-title="卫视频道",新闻综合3
+#EXTINF:-1 group-title="卫视频道",新闻综合3
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视频道",山西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
@@ -186,30 +175,21 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="精品",黑莓电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-id="精品" tvg-name="动作电影"
-group-title="精品",动作电影
+#EXTINF:-1 group-title="精品",动作电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 tvg-id="精品" tvg-name="古装剧场"
-group-title="精品",古装剧场
+#EXTINF:-1 group-title="精品",古装剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 tvg-id="精品" tvg-name="惊悚悬疑"
-group-title="精品",惊悚悬疑
+#EXTINF:-1 group-title="精品",惊悚悬疑
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 tvg-id="精品" tvg-name="惊悚悬疑"
-group-title="精品",惊悚悬疑
+#EXTINF:-1 group-title="精品",惊悚悬疑
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 tvg-id="精品" tvg-name="哒啵赛事"
-group-title="精品",哒啵赛事
+#EXTINF:-1 group-title="精品",哒啵赛事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 tvg-id="精品" tvg-name="高清体育"
-group-title="精品",高清体育
+#EXTINF:-1 group-title="精品",高清体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 tvg-id="精品" tvg-name="咪咕视频1"
-group-title="精品",咪咕视频1
+#EXTINF:-1 group-title="精品",咪咕视频1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 tvg-id="精品" tvg-name="咪咕视频2"
-group-title="精品",咪咕视频2
+#EXTINF:-1 group-title="精品",咪咕视频2
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1 tvg-id="卫视频道" tvg-name="咪咕视频3"
-group-title="精品",咪咕视频3
+#EXTINF:-1 group-title="精品",咪咕视频3
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
