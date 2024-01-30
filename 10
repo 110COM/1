@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,CCTV-1
+http://113.57.21.233:8666/tsfile/live/0001_1.m3u8
+#EXTINF:-1,CCTV-17
+http://113.57.21.233:8666/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,CCTV-5
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1,天津卫视
+http://123.138.216.44:9902/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,4-海南卫视
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
